@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Birthday Reminder",
+        "path" : "/birthday"
+    },
+    {
+        "name" : "Tours",
+        "path" : "/tours"
+    },
+    {
+        "name" : "Reviews",
+        "path" : "/reviews"
+    },
+    {
+        "name" : "Accordion",
+        "path" : "/accordion"
+    },
+    {
+        "name" : "Menu",
+        "path" : "/menu"
+    },
+    {
+        "name" : "Tabs",
+        "path" : "/tabs"
+    }
+]
